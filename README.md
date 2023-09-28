@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Miki-Riako
+- 👋 Hi, I’m @Miki-Riako, a freshman in the northeastern university.
 - 👀 I’m interested in literature while my major is computer science, which is my distinction from other githuber.
 - 🌱 I’m currently learning python and Csharp.
 - 💞️ I’m looking to collaborate on learing computer science and artificial intelligence.
