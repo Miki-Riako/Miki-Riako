@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Miki-Riako
-- 👀 I’m interested in literature while my major is computer science, which is my distinguish from other githuber.
+- 👀 I’m interested in literature while my major is computer science, which is my distinction from other githuber.
 - 🌱 I’m currently learning python and Csharp.
 - 💞️ I’m looking to collaborate on learing computer science and artificial intelligence.
 - 📫 How to reach me miki_riako@qq.com.
