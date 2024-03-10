@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @Miki-Riako, a freshman in the northeastern university.
-- 👀 I’m interested in literature while my major is computer science, which is my distinction from other githuber.
-- 🌱 I’m currently learning python and Csharp.
-- 💞️ I’m looking to collaborate on learing computer science and artificial intelligence.
-- 📫 How to reach me miki_riako@qq.com.
-
-This is my first code in github, Thanks!
+<h1 align="center">
+    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
+    I'm
+    <a href="404" target="_blank">
+        Miki-Riako
+    </a>
+        , a freshman in the 
+    <a href="https://en.wikipedia.org/wiki/Northeastern_University_(China)" target="_blank">
+        NEU
+    </a>
+        . Contact me on
+    <a href="https://mail.google.com" target="_blank">
+        adjacencymatrixria@gmail.com
+    </a>
+    <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="50" height="50" />
+</h1>
 
 <!---
 Miki-Riako/Miki-Riako is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
