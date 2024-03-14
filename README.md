@@ -1,6 +1,6 @@
 <h1 align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=flask,mysql,qt,sqlite," />
+        <img src="https://skillicons.dev/icons?i=sqlite,flask,mysql,qt" />
         <br>
         <img src="https://skillicons.dev/icons?i=c,cs,cpp,css,html,latex,matlab,py" />
         <br>
@@ -8,7 +8,7 @@
     </a>
     <br>
     <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />
-    I'm <a href="http://www.adjmatrix.site/" target="_blank">Miki-Riako</a>, a freshman in the <a href="https://en.wikipedia.org/wiki/Northeastern_University_(China)" target="_blank">NEU</a>.
+    I'm <a href="http://www.adjmatrix.site/" target="_blank">Miki Riako</a>, a freshman in the <a href="https://en.wikipedia.org/wiki/Northeastern_University_(China)" target="_blank">NEU</a>.
     <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="40" height="40" />
     <br>
     Contact me on <a href="https://mail.google.com" target="_blank">adjacencymatrixria@gmail.com</a>
