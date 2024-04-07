@@ -11,7 +11,7 @@
     I'm <a href="http://www.adjmatrix.site/" target="_blank">Miki Riako</a>, a freshman in the <a href="https://en.wikipedia.org/wiki/Northeastern_University_(China)" target="_blank">NEU</a>.
     <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="40" height="40" />
     <br>
-    Contact me on <a href="https://mail.google.com" target="_blank">adjacencymatrixria@gmail.com</a>
+    Contact me on <a href="mailto:adjacencymatrixria@gmail.com">adjacencymatrixria@gmail.com</a>
 </h1>
 
 <!---
