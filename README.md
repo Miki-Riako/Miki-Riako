@@ -1,10 +1,8 @@
-<p align="center">
-    ![Welcome](afterwelcome.png)
-</p>
+![Welcome](afterwelcome.png)
 <h1 align="center">
     <br>
     📚
-    I'm <a href="http://www.adjmatrix.site/" target="_blank">Miki Riako</a>, a freshman in the <a href="https://en.wikipedia.org/wiki/Northeastern_University_(China)" target="_blank">NEU</a>.
+    I'm <a href="http://www.adjmatrix.site/" target="_blank">Kagami's Adjmatrix</a>, a freshman in the <a href="https://en.wikipedia.org/wiki/Northeastern_University_(China)" target="_blank">NEU</a>.
     🖥️
     <br>
     Contact me on <a href="mailto:adjacencymatrixria@gmail.com">adjacencymatrixria@gmail.com</a>
